@@ -1,8 +1,6 @@
-# Getting Started with Create React App
+### API used to display weather information
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
+Open [https://home.openweathermap.org/] and register to get API key
 
 In the project directory, you can run:
 
